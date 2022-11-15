@@ -1,6 +1,6 @@
 <p align="center">
   <p align="center">
-   <img width="180" height="180" src="https://github.com/shastra-os/.github/main/profile/assets/logo.png" alt="Logo">
+   <img width="180" height="180" src="./assets/logo.png" alt="Logo">
   </p>
   <h1 align="center"><b>Decentralized Desktop OS For 21st Centurary</b></h1>
   <p align="center">
@@ -18,5 +18,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/shastra-os/.github/main/profile/assets/banner.gif" alt="Banner">
+  <img src="./assets/banner.png" alt="Banner">
 </p>
