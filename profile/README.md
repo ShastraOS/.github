@@ -6,7 +6,8 @@
     <br />
     <i>~ Currently Under Development ~</i>
     <br />
-    <a href="https://shastraos.co"><strong>shastraos.co</strong></a>
+    <a href="https://shastraos.co"><strong>shastraos.co</strong></a><br>
+    <a href="https://gitlab.com/shastraos"><strong>GITLAB</strong></a>
     <br />
     <br />
   </p>
