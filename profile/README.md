@@ -6,8 +6,7 @@
     <br />
     <i>~ Currently Under Development ~</i>
     <br />
-    <a href="https://shastraos.co"><strong>shastraos.co</strong></a><br>
-    <a href="https://gitlab.com/shastraos"><strong>GITLAB</strong></a>
+    <a href="https://shastraos.co"><strong>shastraos.co</strong></a>
     <br />
     <br />
   </p>
@@ -17,5 +16,6 @@
   <img width="70%" height="70%" src="https://github.com/Shastra-OS/.github/blob/main/profile/assets/banner.png" alt="Banner">
 </p>
     <br />
-    
+   
 > Most of the listed features are still experimental and subject to change. [Learn More](https://shastraos.co/docs/previewterms)
+<h2><a href="https://gitlab.com/shastraos"><strong>GITLAB</strong></a></h2>
