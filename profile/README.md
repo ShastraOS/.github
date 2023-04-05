@@ -1,5 +1,5 @@
 <p align="center">
-   <img width="140" height="140" src="https://github.com/Shastra-OS/.github/blob/main/profile/assets/logo.png" alt="Logo">
+   <img width="140" height="140" src="https://raw.githubusercontent.com/ShastraOS/.github/main/profile/assets/round-icon-shastraos.png" alt="Logo">
   <h1 align="center"><b>Decentralized Desktop OS For 21st Century</b></h1>
   <p align="center">
   A desktop that brings full privacy and security with fluent exprience.
