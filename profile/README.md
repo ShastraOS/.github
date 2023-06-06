@@ -1,3 +1,5 @@
+> Sorry but ShastraOS has migrated to GitLab recently
+<h2><a href="https://gitlab.com/shastraos"><strong>GITLAB</strong></a></h2>
 <p align="center">
    <img width="80" height="80" src="https://raw.githubusercontent.com/ShastraOS/.github/main/profile/assets/round-icon-shastraos.png" alt="Logo">
   <h1 align="center"><b>Decentralized Desktop OS For 21st Century</b></h1>
@@ -18,5 +20,3 @@
     <br />
    
 > Most of the listed features are still experimental and subject to change. [Learn More](https://shastraos.co/docs/previewterms)\
-> Core build files and packages has migrated to Gitlab
-<h2><a href="https://gitlab.com/shastraos"><strong>GITLAB</strong></a></h2>
